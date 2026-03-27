@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<?php
+
+echo '<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -31,4 +33,6 @@
 </form>
 
 </body>
-</html>
+</html>';
+
+?>
